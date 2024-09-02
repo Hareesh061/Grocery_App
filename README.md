@@ -1,5 +1,5 @@
 # Grocery_App
-It's the simple android app where we add our grocery items and also we can delete. Here I used local android database that is room to store the added items in Grocery app.
+It's a simple android app where we add our grocery items and also we can delete them. Here I used a local Android database that has room to store the added items in the Grocery app.
 
 # Out-put of Grocery_app:
 
